@@ -7,15 +7,10 @@ This is my first GitHub repository. I hope it will learn to better document and 
 **This should be bold**
 
 Data Types
-  bool
-  int
-  float
-  string
-  list
-  tuple
-  set
-  dict
-  None
+ - [ ] bool
+ - [ ] int
+ - [ ] float
+:hedgehog:
 
 Operators
   =, +=, -=, *=, /=, **=
